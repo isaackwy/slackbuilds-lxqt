@@ -1,0 +1,2 @@
+Polkit-qt is a library that allows developers to use the PolicyKit API
+through a nice Qt-styled API.
