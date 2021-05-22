@@ -1,4 +1,4 @@
-# slackbuilds-lxqt
+# slackbuilds-lxqt-14.2
 LXQT Slackbuilds for Slackware 14.2
 
 None of these slackbuilds are official (i.e. they have not been uploaded to SlackBuilds.org).  
